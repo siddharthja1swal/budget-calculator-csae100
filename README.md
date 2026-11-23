@@ -26,6 +26,6 @@ A Python-based budget and expense management application built in VS Code to hel
 | Name | GitHub Profile | Role & Key Contributions |
 | :--- | :--- | :--- |
 | **[Shubham Batra]** | [@ShubhamBatra23](https://github.com) | **Lead Python Developer** – Designed and coded the core Python implementation (`main.py`) in VS Code. |
-| **[Siddharth Jaiswal]** | [@siddharthja1swal](https://github.com) | **Repository Setup** – Created the GitHub repository and uploaded the initial project files. |
-| **[Utkarsh Dhankhar]** | [@utkarshdhankhar07](https://github.com) | **Presentation** – Created and uploaded the project presentation slides. |
-| **[Shubh Kumar]** | [@shubhkumar18](https://github.com) | **Project Report** – Compiled and uploaded the final project documentation and report. |
+| **[Siddharth Jaiswal]** | [@siddharthja1swal](https://github.com) | **Repository Setup** – Created the GitHub repository, developed program structure and the initial project files. |
+| **[Utkarsh Dhankhar]** | [@utkarshdhankhar07](https://github.com) | **Presentation** – worked on CSV file handling, data storage Created and uploaded the project presentation slides. |
+| **[Shubh Kumar]** | [@shubhkumar18](https://github.com) | **Project Report** – tested diff functions, suggested changes Compiled and uploaded the final project documentation and report. |
