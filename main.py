@@ -1,3 +1,15 @@
+"""
+Project: Budget Calculator
+Lead Developer: [SHUBHAM BATRA] (@ShubhamBatra23)
+Implemented in Python using VS Code.
+"""
+
+# Calculate total monthly expenses
+# can set monthly budget limit
+# visualise the expense pictorialy
+# can see complete expense list
+
+
 import csv
 import os
 from datetime import datetime
